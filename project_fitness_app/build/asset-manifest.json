@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adrianhajdin/project_fitness_app/static/css/main.20acbc28.css",
+    "main.js": "/adrianhajdin/project_fitness_app/static/js/main.edf818a4.js",
+    "static/media/banner.png": "/adrianhajdin/project_fitness_app/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/adrianhajdin/project_fitness_app/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/adrianhajdin/project_fitness_app/index.html",
+    "main.20acbc28.css.map": "/adrianhajdin/project_fitness_app/static/css/main.20acbc28.css.map",
+    "main.edf818a4.js.map": "/adrianhajdin/project_fitness_app/static/js/main.edf818a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.edf818a4.js"
+  ]
+}
